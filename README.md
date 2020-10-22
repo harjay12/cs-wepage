@@ -1,4 +1,4 @@
-#Bridgewater State University CS Club Web Site
+# Bridgewater State University CS Club Web Site
 
 This project was made using create-react-app
 
