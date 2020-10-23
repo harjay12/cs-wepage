@@ -12,6 +12,4 @@ or if you are using yarn run
 
 You can find this site hosted at [bsucomputerscienceclub.com](https://www.bsucomputerscienceclub.com/)
 
-<video width="320" height="240" controls>
-  <source src="/img&vid/vid" type="vid/mp4">
-</video>
+<video src="/img&vid/vidPlay1.mp4" autoPlay loop muted />
