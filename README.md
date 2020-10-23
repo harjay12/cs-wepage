@@ -12,4 +12,4 @@ or if you are using yarn run
 
 You can find this site hosted at [bsucomputerscienceclub.com](https://www.bsucomputerscienceclub.com/)
 
-<video src="/img&vid/vidPlay1.mp4" autoPlay loop muted ><video>
+![](img&vid/BearGrid1.png)
