@@ -12,8 +12,6 @@ or if you are using yarn run
 
 You can find this site hosted at [bsucomputerscienceclub.com](https://www.bsucomputerscienceclub.com/)
 
-steps:
-
-- title: What is GitHub?
-  description: After watching this video, close the first issue in your repository.
-  video: https://youtube.com/embed/w3jLJU7DT5E
+<video width="320" height="240" controls>
+  <source src="/img&vid/vid" type="vid/mp4">
+</video>
