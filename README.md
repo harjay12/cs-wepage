@@ -12,4 +12,4 @@ or if you are using yarn run
 
 You can find this site hosted at [bsucomputerscienceclub.com](https://www.bsucomputerscienceclub.com/)
 
-<img src="/img&vid/BearGrid-2.png" >
+
