@@ -11,5 +11,3 @@ or if you are using yarn run
 #### `yarn install` and `yarn start`
 
 You can find this site hosted at [bsucomputerscienceclub.com](https://www.bsucomputerscienceclub.com/)
-
-<video src="/img&vid/vidPlay1.mp4" autoPlay loop muted >

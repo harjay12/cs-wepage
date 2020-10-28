@@ -28,11 +28,11 @@ export default function Contact() {
       <div className="container">
         <div class="row">
           <div class="column">
-            <Image src="/img&vid/BearGrid-2.png" style={{ width: "100%" }} />
+            <Image src="/img&vid/BearGrid-2.png" className="img" />
           </div>
 
           <div className="column">
-            <div>
+            <div className={press ? "text-Cont " : ""}>
               <h1 style={{ fontStyle: "italic", textAlign: "center" }}>
                 Contact Us
               </h1>
@@ -43,11 +43,16 @@ export default function Contact() {
               <h2 style={{ textAlign: "center", paddingBottom: "10px" }}>
                 BSU Computer Science Club
               </h2>
-            </div>
-            <div style={{ textAlign: "center", padding: "20px" }}>
-              <button className="button1" onClick={pressHandler} type="submit">
-                Click Here to Message Us!
-              </button>
+
+              <div style={{ textAlign: "center", padding: "20px" }}>
+                <button
+                  className="button1"
+                  onClick={pressHandler}
+                  type="submit"
+                >
+                  Click Here to Message Us!
+                </button>
+              </div>
             </div>
 
             <div className={press ? "activeCol-50 " : "column-off"}>
