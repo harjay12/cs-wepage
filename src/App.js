@@ -12,7 +12,6 @@ function App() {
           <Route component={ScrollingSys} />
         </Switch>
       </Router>
-  
     </div>
   );
 }
